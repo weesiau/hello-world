@@ -1,2 +1,4 @@
 # hello-world
-Cool new repository
+
+Hello all!
+Trying out branching in a repository for the first time!! - weesiau
