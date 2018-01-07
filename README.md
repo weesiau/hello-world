@@ -1,4 +1,6 @@
 # hello-world
 
-Hello all!
-Trying out branching in a repository for the first time!! - weesiau
+Hello Sugar Labs!
+
+I am Siau Wee(weesiau) from Singapore, currently studying JC2 Computing this year. 
+I mostly do Python and hope to learn more about coding and the community. Thank you!
